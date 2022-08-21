@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>67e1cb7d9895111040bd4bfdad32b400</name>
+        <operation display_value="execute">execute</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-14 19:49:25</sys_created_on>
+        <sys_id>ebe1cb7d759511107bfdd119ea45e700</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>67e1cb7d9895111040bd4bfdad32b400</sys_name>
+        <sys_package display_value="Defect Tracker" source="x_135514_defect_0">6f80433d1b951110fdc3ece4604bcbbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Defect Tracker">6f80433d1b951110fdc3ece4604bcbbe</sys_scope>
+        <sys_update_name>sys_security_acl_ebe1cb7d759511107bfdd119ea45e700</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-08-14 19:49:25</sys_updated_on>
+        <type display_value="ux_data_broker">6d9c40e9531210101cb3ddeeff7b12f6</type>
+    </sys_security_acl>
+</record_update>

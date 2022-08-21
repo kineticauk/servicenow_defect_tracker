@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_2fe18b7d35951110fd7e3d455f1373f3</event_name>
+        <interfaces/>
+        <label>Page Add Notifications Relay (Preferences Default)</label>
+        <props>[{"name":"items","fieldType":"json","interfaceApiName":null,"label":"Items"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-14 19:49:25</sys_created_on>
+        <sys_id>6fe18b7d9c951110b5a8b433861c01f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Page Add Notifications Relay (Preferences Default)</sys_name>
+        <sys_package display_value="Defect Tracker" source="x_135514_defect_0">6f80433d1b951110fdc3ece4604bcbbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Defect Tracker">6f80433d1b951110fdc3ece4604bcbbe</sys_scope>
+        <sys_update_name>sys_ux_event_6fe18b7d9c951110b5a8b433861c01f3</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-08-14 19:49:25</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=6fe18b7d9c951110b5a8b433861c01f3"/>
+</record_update>

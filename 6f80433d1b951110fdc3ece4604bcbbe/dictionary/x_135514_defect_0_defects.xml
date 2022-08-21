@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Defects" max_length="40" name="x_135514_defect_0_defects" sizeclass="2" type="collection">
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element display="true" label="Incident" max_length="32" name="incident" reference="incident" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Steps To Reproduce" max_length="4000" name="steps_to_reproduce" type="string"/>
+        <index name="index">
+            <element name="incident"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_to"/>
+        </index>
+    </element>
+</database>

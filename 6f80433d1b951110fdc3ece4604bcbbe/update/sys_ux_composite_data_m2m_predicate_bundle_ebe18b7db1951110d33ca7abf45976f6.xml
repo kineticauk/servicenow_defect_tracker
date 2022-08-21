@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">63e18b7d2895111049b9c18919bd02f8</dataset>
+        <order/>
+        <predicate_bundle display_value="My requests - reqested item bundle">efe18b7dfb951110c4faa4e7e79f3df6</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-14 19:49:26</sys_created_on>
+        <sys_id>ebe18b7db1951110d33ca7abf45976f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Defect Tracker" source="x_135514_defect_0">6f80433d1b951110fdc3ece4604bcbbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Defect Tracker">6f80433d1b951110fdc3ece4604bcbbe</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_ebe18b7db1951110d33ca7abf45976f6</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-08-14 19:49:26</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

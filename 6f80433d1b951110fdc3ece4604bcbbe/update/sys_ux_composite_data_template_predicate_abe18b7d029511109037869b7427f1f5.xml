@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="sysapproval_approver">approverDYNAMIC90d1921e5f510100a9ad2572f2b477fe^state=requested^EQ<item endquery="false" field="approver" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item display_value="Requested" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="requested"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>due_date,sysapproval.short_description,sysapproval.number,sys_created_on</field_list>
+        <name>My Tasks</name>
+        <order/>
+        <predicate_bundle display_value="My Tasks - Task bundle">27e18b7d54951110511f1fac6491ecf6</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-14 19:49:25</sys_created_on>
+        <sys_id>abe18b7d029511109037869b7427f1f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Tasks</sys_name>
+        <sys_package display_value="Defect Tracker" source="x_135514_defect_0">6f80433d1b951110fdc3ece4604bcbbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Defect Tracker">6f80433d1b951110fdc3ece4604bcbbe</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_abe18b7d029511109037869b7427f1f5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-08-14 19:49:25</sys_updated_on>
+        <table>sysapproval_approver</table>
+        <ux_template display_value="Custom Portal Landing - My Tasks template">2be18b7de3951110a1c139c097d7bcf5</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

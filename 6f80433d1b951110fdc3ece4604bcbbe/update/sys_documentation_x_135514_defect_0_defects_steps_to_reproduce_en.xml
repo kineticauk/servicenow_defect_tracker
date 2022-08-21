@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="steps_to_reproduce" label="Steps To Reproduce" language="en" table="x_135514_defect_0_defects">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>steps_to_reproduce</element>
+            <help/>
+            <hint/>
+            <label>Steps To Reproduce</label>
+            <language>en</language>
+            <name>x_135514_defect_0_defects</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-19 23:22:10</sys_created_on>
+            <sys_id>59922deb1b111110fdc3ece4604bcb54</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Steps To Reproduce</sys_name>
+            <sys_package display_value="Defect Tracker" source="x_135514_defect_0">6f80433d1b951110fdc3ece4604bcbbe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Defect Tracker">6f80433d1b951110fdc3ece4604bcbbe</sys_scope>
+            <sys_update_name>sys_documentation_x_135514_defect_0_defects_steps_to_reproduce_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-19 23:22:11</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
