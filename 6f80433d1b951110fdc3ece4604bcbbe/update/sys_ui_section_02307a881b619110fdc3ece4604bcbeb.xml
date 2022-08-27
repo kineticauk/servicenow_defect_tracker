@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="Related Incident" section_id="02307a881b619110fdc3ece4604bcbeb" sys_domain="global" table="x_135514_defect_0_defects" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>incident.number</element>
+            <element>incident</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-21 18:19:04</sys_created_on>
-            <sys_id>cd607e881b619110fdc3ece4604bcb1c</sys_id>
+            <sys_created_on>2022-08-21 20:41:53</sys_created_on>
+            <sys_id>4d119f881be19110fdc3ece4604bcb47</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Related Incident" display_value="Related Incident" name="x_135514_defect_0_defects" sys_domain="global" view="Default view">02307a881b619110fdc3ece4604bcbeb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-21 18:19:04</sys_updated_on>
+            <sys_updated_on>2022-08-21 20:41:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
